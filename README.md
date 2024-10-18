@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Open-source bioinformatics tools**
 
-- 🤝 I’m looking for help with **Bioinformatics projects**
+- 🤝 I’m looking for help with **Bioinformatics/Software Engineering project ideas**
 
 - 💬 Ask me about **Full-stack development and bioinformatics**
 
 - 📫 How to reach me **zapataarielle@gmail.com**
 
-- ⚡ Fun fact **I have a passion for developing games and creating training programs for dogs.**
+- ⚡ Fun fact **I have a passion for taekwondo and creating training programs for dogs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
