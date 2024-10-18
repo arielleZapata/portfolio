@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arielle</h1>
-<h3 align="center">From Antarctic fish research to Real Estate Tycoon on Roblox—coding all the way!</h3>
+<h3 align="center">From Antarctic fish research to TourneyHero-coding all the way!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariellezapata&label=Profile%20views&color=0e75b6&style=flat" alt="ariellezapata" /> </p>
 
