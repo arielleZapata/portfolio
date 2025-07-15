@@ -111,14 +111,6 @@ Hi there! I'm **Arielle Zapata**, a full-stack software engineer and bioinformat
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arielleZapata/arielleZapata/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arielleZapata/arielleZapata/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arielleZapata/arielleZapata/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arielleZapata.arielleZapata&"  />
 </div>
