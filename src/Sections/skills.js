@@ -1,0 +1,4 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+export default function Skills() {
+    return (_jsxs("section", { id: "skills", className: "px-6 md:px-20 py-20 bg-white text-gray-800", children: [_jsx("h2", { className: "text-3xl font-bold mb-6 flex flex-col items-center justify-center", children: "Skills" }), _jsxs("ul", { className: "list-disc ml-6 space-y-2", children: [_jsx("li", { children: "Full-stack web development (React, Node, Django, .NET)" }), _jsx("li", { children: "Bioinformatics pipelines & data analysis (Python, R, Bioconductor)" }), _jsx("li", { children: "Machine learning model development and deployment" }), _jsx("li", { children: "Mobile app development (Flutter, React Native)" }), _jsx("li", { children: "Cloud & infrastructure (AWS, Firebase, Docker)" }), _jsx("li", { children: "Git, GitHub, CI/CD, REST APIs, SQL/NoSQL" })] })] }));
+}
