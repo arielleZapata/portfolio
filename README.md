@@ -1,6 +1,13 @@
 <h1 align="center">Greetings from Arielle</h1>
 
-Hi there! I'm **Arielle Zapata**, a full-stack software engineer and bioinformatics graduate with a passion for building tools that are as meaningful as they are joyful. I’m also a dog trainer and small business owner — so whether it’s training pups or deploying pipelines, I do it with creativity and intention. 🧬💻🐾<br><br>---<br><br>## 🌟 About Me<br><br>- 🎓 Master’s in **Bioinformatics** & Bachelor’s in **Computer Science**<br>- 🛠 3+ years of experience in **full-stack development**, **data analysis**, and **scientific computing**<br>- 🧪 Passionate about the intersection of **biology, software, and real-world impact**<br>- 🐶 Founder of [Bright Tails Pet Training](https://brighttailspets.com), where I apply behavioral science daily<br>- 🌱 Currently building cool stuff with **React**, **Django**, **Flutter**, **.NET**, and **AWS**<br><br>---<br><br>## 🧰 Tech Stack<br><br>```bash<br>Languages:       Python, JavaScript, TypeScript, R, C++, C#, PHP<br>Frameworks:      React, Next.js, Node.js, Express, Django, ASP.NET Core, Flutter<br>Databases:       PostgreSQL, MongoDB, MySQL, Firebase, Prisma<br>Tools/Platforms: AWS, Git, Docker, RStudio, Figma, Blender, Tailwind CSS, Stripe, Clerk
+Hi there! I'm **Arielle Zapata**, a full-stack software engineer and bioinformatics graduate with a passion for building tools that are as meaningful as they are joyful. 
+
+🌟 About Me 🌟 
+
+🎓 Master’s in **Bioinformatics** & Bachelor’s in **Computer Science**
+🛠 3+ years of experience in **full-stack development**, **data analysis**, and **scientific computing**
+🧪 Passionate about the intersection of **biology, software, and real-world impact**
+🌱 Currently building cool stuff with **React**, **Django**, **Flutter**, **.NET**, and **AWS**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
