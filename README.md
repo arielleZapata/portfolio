@@ -12,6 +12,8 @@ Hi there! I'm **Arielle Zapata**, a full-stack software engineer and bioinformat
 
 🌱 Currently building cool stuff with **React**, **Django**, **Flutter**, **.NET**, and **AWS**
 
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -109,7 +111,11 @@ Hi there! I'm **Arielle Zapata**, a full-stack software engineer and bioinformat
 
 ###
 
-<img src="https://raw.githubusercontent.com/arielleZapata/arielleZapata/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arielleZapata/arielleZapata/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arielleZapata/arielleZapata/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arielleZapata/arielleZapata/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
