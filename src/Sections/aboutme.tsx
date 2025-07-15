@@ -5,6 +5,7 @@ export default function AboutMe() {
         <p className="text-lg max-w-3xl leading-relaxed">
           I’m Arielle Zapata, a full-stack developer with a Master’s in Bioinformatics and a love for building tools that bridge science, software, and real-world impact.
           <br />
+          <br />
           Whether I’m creating data dashboards, mobile apps, or analyzing biological datasets, I bring creativity and curiosity to every project I touch.
         </p>
       </section>
