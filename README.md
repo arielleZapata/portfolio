@@ -5,8 +5,11 @@ Hi there! I'm **Arielle Zapata**, a full-stack software engineer and bioinformat
 🌟 About Me 🌟 
 
 🎓 Master’s in **Bioinformatics** & Bachelor’s in **Computer Science**
+
 🛠 3+ years of experience in **full-stack development**, **data analysis**, and **scientific computing**
+
 🧪 Passionate about the intersection of **biology, software, and real-world impact**
+
 🌱 Currently building cool stuff with **React**, **Django**, **Flutter**, **.NET**, and **AWS**
 
 <div align="center">
